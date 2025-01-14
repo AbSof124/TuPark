@@ -49,6 +49,7 @@ This project provides a solution for optimizing parking assignments by reducing 
 ## License
 
 This project is open-source, and you are free to modify it for your purposes. However, please cite the original work if you use it in any research or development project.
+### Abidi, S., Krichen, S., Alba, E. et al. A Hybrid Heuristic for Solving a Parking Slot Assignment Problem for Groups of Drivers. Int. J. ITS Res. 15, 85–97 (2017). https://doi.org/10.1007/s13177-016-0123-1
 
 ---
 
